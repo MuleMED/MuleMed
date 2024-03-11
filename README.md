@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Mule
 
-Am currently a computer student at [Clarke International University (CIU)](https://ciu.ac.ug/) doing Apllied Computing Technology. Also took [CS50] (https://www.youtube.com/watch?v=3LPJfIKxwWc&list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4) Harvard University's introduction to the intellectual enterprises of computer science and the art of programming.
+Am currently a computer student at [Clarke International University (CIU)](https://ciu.ac.ug/) doing Apllied Computing Technology. Also took [CS50](https://www.youtube.com/watch?v=3LPJfIKxwWc&list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4) Harvard University's introduction to the intellectual enterprises of computer science and the art of programming.
 
 
 
