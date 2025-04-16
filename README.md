@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mule</h1>
-<h3 align="center">A passionate Junior software developer</h3>
+<h3 align="center">A passionate Junior Data Analyst </h3>
 <p>Am currently a computer student at <a href="https://ciu.ac.ug/" target="blank">Clarke International University (CIU)</a> doing Apllied Computing Technology.<br> Also took<a href="https://www.youtube.com/watch?v=3LPJfIKxwWc&list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4" target="blank"> CS50</a> Harvard University's introduction to the intellectual enterprises of computer science and the art of programming.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mulemed&label=Profile%20views&color=0e75b6&style=flat" alt="mulemed" /> </p>
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **AI/ML and Big Data**
 
-- 👯 I’m looking to collaborate on **Any machine Learning Project**
+- 👯 I’m looking to collaborate on **Any Data Analysis and AI / machine Learning Project**
 
 - 📫 How to reach me **muleof2000@gmail.com or +256776662314**
 
